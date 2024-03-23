@@ -56,7 +56,7 @@ soundfile
 soxr
 tensorboard
 tensorboard-data-server
-tensorflow
+tensorflow==2.10.0
 tensorflow-estimator
 tensorflow-intel
 tensorflow-io-gcs-filesystem
