@@ -1,4 +1,4 @@
-python==3.10.0
+
 absl-py
 astunparse
 audioread
@@ -57,7 +57,7 @@ soundfile
 soxr
 tensorboard
 tensorboard-data-server
-tensorflow==2.10.0
+tensorflow
 tensorflow-estimator
 tensorflow-intel
 tensorflow-io-gcs-filesystem
